@@ -1,2 +1,3 @@
 # ITAS_Projects_Milu.Topaz
-A repo for ITAS projects. Sync between desktop and laptop!
+A repo for my ITAS projects. 
+I can sync work between my desktop and my laptop.
